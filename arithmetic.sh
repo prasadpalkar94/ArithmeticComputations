@@ -11,3 +11,4 @@ result[W]=$w
 result[X]=$x
 result[Y]=$y
 result[Z]=$z
+array=${result[@]}
