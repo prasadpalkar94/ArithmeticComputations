@@ -5,3 +5,4 @@ read -p "Enter Third No"  c
 w=$(($a+$b*$c))
 x=$(($a*$b+$c))
 y=$(($c+$a/$b))
+z=$(($a%$b+$c))
